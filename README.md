@@ -7,6 +7,7 @@
 Work In Process  
 
 # LICENSING & COPYRIGHT DISCLAIMER
-- This Mozilla Public License 2.0 (MPL-2.0) applies EXCLUSIVELY to the custom source code files (.gml, .json, scripts,) authored by the repository owner located within the source directories.
-- This license DOES NOT apply to any binary patches (.xdelta, .bps, .win,), modified sprites, or compiled distribution files available under the Releases section.
+- All Thai localization materials (dialogues, cultural adaptations, custom fonts, modified sprites, etc.) are provided for non-commercial fan use only. They must NOT be sold, rented, or monetized under any circumstances.
 - Undertale and all its original assets, underlying code, graphics, and characters are the sole property of Toby Fox. This project is a non-commercial, fan-made modification.
+- This Mozilla Public License 2.0 (MPL-2.0) applies EXCLUSIVELY to the custom source code files (.gml, .json, scripts,) authored by contributors to this repository located within the source directories.  
+  This license DOES NOT apply to any binary patches (.xdelta, .bps, .win,), modified sprites, or compiled distribution files available under the Releases section.
