@@ -1,10 +1,48 @@
-# UNDERTALE Thai localisation
+# ม็อด UNDERTALE เทศาภิวัตน์เป็นไทย
 <a href="https://discord.gg/EKSbaU5bhH"><img alt="Discord" src="https://img.shields.io/discord/1514252178049601707?label=Discord&logo=discord&style=flat"></a>
 <a href="https://www.facebook.com/people/%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B9%81%E0%B8%9B%E0%B8%A5%E0%B8%93%E0%B8%B4%E0%B8%98%E0%B8%B2%E0%B8%99/61590331360927/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&style=flat"></a>
 
-ยังอยู่ระหว่างการพัฒนา  
-ยังอยู่รว่างการวัฑฒนา  
-Work In Process  
+[ENGLISH BELOW](#en)
+
+สำหรับวิธีติดตั้ง กรุณาเยี่ยมชมหน้าเพจของทีมแปลณิธาน
+[วิธีติดตั้ง](https://plaenithaan.na.in.th/undertale/instruction.html)
+
+### ดาวน์โหลด
+
+กรุณาไปที่ [หน้า Releases](https://github.com/Plaenithaan/UNDERTALE-TH/releases/)
+
+### รองรับ
+- Steam เวอร์ชั่น 1.08 บนแพลตฟอร์ม:  
+  - Windows
+  - macOS
+  - Linux
+
+หากเวอร์ชันที่มีไม่รองรับ ลองไปดู [UndertaleVersionSwitcher](https://github.com/Jacky720/UndertaleVersionSwitcher)
+
+### บั๊กรับรู้แต่ไม่รับเรื่อง
+
+- **ไม่สามารถพิมพ์ไทยเขียนเอสเสสู้กับเมตตาตอนบน macOS / \*nix / Linux ได้**  
+  เท่าที่รู้ น่าจะเป็นบั๊กของ GameMaker 1.x, ไม่ใช่บั๊กของ UNDERTALE  
+  จริงๆ ก็แก้ให้พิมพ์ด้วย US-ANSI แล้วกลายร่างเป็นแป้นเกษมณีได้ แต่**ไม่ใช่ทุกคนที่ใช้แป้นพิมพ์เกษมณี** และบางคนก็อยากพิมพ์อังกฤษอยู่ ก็เลยปล่อยเลยตามนั้น
+
+<a id="en"></a>
+# UNDERTALE Thai Localization Mod
+## Download
+Please visit [Release Section](https://github.com/Plaenithaan/UNDERTALE-TH/releases/)
+
+## Support
+- Steam version 1.08 on these platforms:
+  - Windows
+  - macOS
+  - Linux
+
+If your version is not supported, please use [UndertaleVersionSwitcher](https://github.com/Jacky720/UndertaleVersionSwitcher)
+
+### WONFTIX
+
+- **Cannot type Thai during the Mettaton EX essay section on macOS / \*nix / Linux**  
+  As we know, this is might be a GameMaker 1.x bug, not an UNDERTALE bug.  
+  Although we can map US-ANSI to Thai Kedmanee, **not everyone uses the Kedmanee layout**, and some users may still prefer typing in English, so we let it be.
 
 # LICENSING & COPYRIGHT DISCLAIMER
 - All Thai localization materials (dialogues, cultural adaptations, custom fonts, modified sprites, etc.) are provided for non-commercial fan use only. They must NOT be sold, rented, or monetized under any circumstances.
