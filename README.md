@@ -1,11 +1,14 @@
+<img src="doc/title.png" height="72" style="image-rendering: pixelated;">
+
 # ม็อด UNDERTALE เทศาภิวัตน์เป็นไทย
 <a href="https://discord.gg/EKSbaU5bhH"><img alt="Discord" src="https://img.shields.io/discord/1514252178049601707?label=Discord&logo=discord&style=flat"></a>
 <a href="https://www.facebook.com/people/%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B9%81%E0%B8%9B%E0%B8%A5%E0%B8%93%E0%B8%B4%E0%B8%98%E0%B8%B2%E0%B8%99/61590331360927/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&style=flat"></a>
 
 [ENGLISH BELOW](#en)
+<hr>
 
 สำหรับวิธีติดตั้ง กรุณาเยี่ยมชมหน้าเพจของทีมแปลณิธาน
-[วิธีติดตั้ง](https://plaenithaan.na.in.th/undertale/instruction.html)
+[วิธีติดตั้ง](https://plaenithaan.na.in.th/undertale/Instruction.html)
 
 ### ดาวน์โหลด
 
@@ -43,6 +46,17 @@ If your version is not supported, please use [UndertaleVersionSwitcher](https://
 - **Cannot type Thai during the Mettaton EX essay section on macOS / \*nix / Linux**  
   As we know, this is might be a GameMaker 1.x bug, not an UNDERTALE bug.  
   Although we can map US-ANSI to Thai Kedmanee, **not everyone uses the Kedmanee layout**, and some users may still prefer typing in English, so we let it be.
+
+<a id="team"></a>
+# Team
+## Main Crew
+Bokchoyman, EverHope, @FireMuffin303, h12n, Keam, NotMinatsu, @sensodize
+
+## Lovely Thai Mod Testers
+ชามี่, ซัน, เนท, เป็ด, ผัดผัก, อิม, Arsen, F, GifperTC, @HumanKK9, InKham, jeng, jiasu, Joe, Kururuyaki, MamoruX, MidNightPss, MIROII, pepotidkor, Rrrrabbit, SytimeZz, Theignore
+
+## TeMmie habe some1 make a WEBsitE!!!
+@HumanKK9 TaolnwZaa007XD(@JIRAWAT1509)
 
 # LICENSING & COPYRIGHT DISCLAIMER
 - All Thai localization materials (dialogues, cultural adaptations, custom fonts, modified sprites, etc.) are provided for non-commercial fan use only. They must NOT be sold, rented, or monetized under any circumstances.
