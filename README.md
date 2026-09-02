@@ -48,15 +48,14 @@ If your version is not supported, please use [UndertaleVersionSwitcher](https://
   Although we can map US-ANSI to Thai Kedmanee, **not everyone uses the Kedmanee layout**, and some users may still prefer typing in English, so we let it be.
 
 <a id="team"></a>
-# Team
 ## Main Crew
-Bokchoyman, EverHope, @FireMuffin303, h12n, Keam, NotMinatsu, @sensodize
+Bokchoyman, EverHope, [@FireMuffin303](https://github.com/FireMuffin303), h12n, Keam, NotMinatsu, [@sensodize](https://github.com/sensodize)
 
 ## Lovely Thai Mod Testers
-ชามี่, ซัน, เนท, เป็ด, ผัดผัก, อิม, Arsen, F, GifperTC, @HumanKK9, InKham, jeng, jiasu, Joe, Kururuyaki, MamoruX, MidNightPss, MIROII, pepotidkor, Rrrrabbit, SytimeZz, Theignore
+ชามี่, ซัน, เนท, เป็ด, ผัดผัก, อิม, Arsen, F, GifperTC, [@HumanKK9](https://github.com/HumanKK9), InKham, jeng, jiasu, Joe, Kururuyaki, MamoruX, MidNightPss, MIROII, pepotidkor, Rrrrabbit, SytimeZz, Theignore
 
 ## TeMmie habe some1 make a WEBsitE!!!
-@HumanKK9 TaolnwZaa007XD(@JIRAWAT1509)
+[@HumanKK9](https://github.com/HumanKK9), [TaolnwZaa007XD](https://github.com/JIRAWAT1509)
 
 # LICENSING & COPYRIGHT DISCLAIMER
 - All Thai localization materials (dialogues, cultural adaptations, custom fonts, modified sprites, etc.) are provided for non-commercial fan use only. They must NOT be sold, rented, or monetized under any circumstances.
