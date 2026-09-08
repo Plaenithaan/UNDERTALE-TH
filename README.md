@@ -57,6 +57,17 @@ Bokchoyman, EverHope, [@FireMuffin303](https://github.com/FireMuffin303), h12n, 
 ## TeMmie habe some1 make a WEBsitE!!!
 [@HumanKK9](https://github.com/HumanKK9), [TaolnwZaa007XD](https://github.com/JIRAWAT1509)
 
+## Special Thanks
+- [UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool) By krzys_h and the [Underminers Team](https://github.com/UnderminersTeam)
+- Diskette [(unix.in.th)](https://unix.in.th/)
+- Jajame
+- [BitFontMaker2](https://www.pentacom.jp/pentacom/bitfontmaker2/)
+- FontForge v2023
+- Krita
+
+## Thai Font Inspiration
+- [uvSOV เรียงพิมพ์2426](https://www.f0nt.com/release/sov-reangphim2426/)
+
 # LICENSING & COPYRIGHT DISCLAIMER
 - All Thai localization materials (dialogues, cultural adaptations, custom fonts, modified sprites, etc.) are provided for non-commercial fan use only. They must NOT be sold, rented, or monetized under any circumstances.
 - Undertale and all its original assets, underlying code, graphics, and characters are the sole property of Toby Fox. This project is a non-commercial, fan-made modification.
