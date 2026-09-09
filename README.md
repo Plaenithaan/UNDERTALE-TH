@@ -66,7 +66,11 @@ Bokchoyman, EverHope, [@FireMuffin303](https://github.com/FireMuffin303), h12n, 
 - Krita
 
 ## Thai Font Inspiration
+- Thai Drivers for DOS, which I cannot name
+- [TLWG's bdf collection](https://github.com/tlwg/thaixfonts)
+- [uvSOV ป้ายหน้า](https://www.f0nt.com/release/sov-paina/)
 - [uvSOV เรียงพิมพ์2426](https://www.f0nt.com/release/sov-reangphim2426/)
+- [uvSOV สถานี](https://www.f0nt.com/release/sov-station/)
 
 # LICENSING & COPYRIGHT DISCLAIMER
 - All Thai localization materials (dialogues, cultural adaptations, custom fonts, modified sprites, etc.) are provided for non-commercial fan use only. They must NOT be sold, rented, or monetized under any circumstances.
