@@ -5,7 +5,7 @@ for (var qq = 1; qq <= string_length(stx); qq++)
 {
     var chx = ord(string_char_at(stx, qq));
     
-    if (!((chx >= 3656 && chx <= 3660) || (chx >= 63237 && chx <= 63246) || (chx >= 63251 && chx <= 63255)))
+    if (!((chx >= 3655 && chx <= 3662) || (chx >= 63237 && chx <= 63246) || (chx >= 63251 && chx <= 63255)))
     {
         resultx += chr(chx);
     }
