@@ -28,6 +28,9 @@
   เท่าที่รู้ น่าจะเป็นบั๊กของ GameMaker 1.x, ไม่ใช่บั๊กของ UNDERTALE  
   จริงๆ ก็แก้ให้พิมพ์ด้วย US-ANSI แล้วกลายร่างเป็นแป้นเกษมณีได้ แต่**ไม่ใช่ทุกคนที่ใช้แป้นพิมพ์เกษมณี** และบางคนก็อยากพิมพ์อังกฤษอยู่ ก็เลยปล่อยเลยตามนั้น
 
+- **macOS ใช้จอยไม่ได้**  
+  เท่าที่รู้ บั๊กของตัว runner เอง
+
 <a id="en"></a>
 # UNDERTALE Thai Localization Mod
 ## Download
@@ -46,6 +49,9 @@ If your version is not supported, please use [UndertaleVersionSwitcher](https://
 - **Cannot type Thai during the Mettaton EX essay section on macOS / \*nix / Linux**  
   As we know, this is might be a GameMaker 1.x bug, not an UNDERTALE bug.  
   Although we can map US-ANSI to Thai Kedmanee, **not everyone uses the Kedmanee layout**, and some users may still prefer typing in English, so we let it be.
+
+- **macOS cannot use joy-controller**  
+  As we know, this is might be a GameMaker runner bug.
 
 <a id="team"></a>
 ## Main Crew
