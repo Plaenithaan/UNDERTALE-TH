@@ -55,7 +55,7 @@ If your version is not supported, please use [UndertaleVersionSwitcher](https://
 
 <a id="team"></a>
 ## Main Crew
-Bokchoyman, EverHope, [@FireMuffin303](https://github.com/FireMuffin303), h12n, Keam, NotMinatsu, [@sensodize](https://github.com/sensodize)
+Bokchoyman, EverHope, [@FireMuffin303](https://github.com/FireMuffin303), [h12n](https://github.com/hiohlan), Keam, NotMinatsu, [@sensodize](https://github.com/sensodize)
 
 ## Lovely Thai Mod Testers
 ชามี่, ซัน, เนท, เป็ด, ผัดผัก, Arsen, F, GifperTC, [@HumanKK9](https://github.com/HumanKK9), InKham, jeng, jiasu, Joe, Kururuyaki, MamoruX, MidNightPss, MIROII, pepotidkor, Rrrrabbit, swiogame, SytimeZz, Theignore
